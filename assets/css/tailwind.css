@@ -436,7 +436,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .calendly {
-  margin-top: 5vh;
+  /* outline:  black; */
 }
 
 *,
@@ -544,12 +544,20 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 1rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
 
 .mb-6 {
   margin-bottom: 1.5rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
 }
 
 .mr-auto {
@@ -785,6 +793,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .pt-4 {
   padding-top: 1rem;
+}
+
+.pt-8 {
+  padding-top: 2rem;
 }
 
 .pb-4 {
