@@ -97,6 +97,12 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+  text-align: center;
+}
+
+h2,
+h3 {
+  text-align: start;
 }
 
 /*
@@ -427,6 +433,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 [hidden] {
   display: none;
+}
+
+.calendly {
+  margin-top: 5vh;
 }
 
 *,
