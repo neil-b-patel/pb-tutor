@@ -522,8 +522,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .mx-auto {
-  margin-left: 1vw;
-  margin-right: 1vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
 
 .my-8 {

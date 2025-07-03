@@ -15,7 +15,7 @@ author-bio: false # change to false to hide
 author-image: image.png # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: true
+show-nav-menu: false
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
